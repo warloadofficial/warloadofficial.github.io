@@ -5,3 +5,8 @@ text-align: center;
 h3 {
 text-align: center;
 }
+
+.buttons {
+  display: block;
+  text-align: center;
+}
