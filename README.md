@@ -1,4 +1,4 @@
 # warloadofficial.github.io
-# 1)Внимание!!! На сайте появился сервис WarLoad Chat
-# 2)Сервис WarLoad Music не работает в мобильной версии сайта
-# 3)На сервисе WarLoad Store появится регистрация через Mail.ru
+# Язык программирования: HTML5 and CSS3
+# Разработчик: WarLoad, Inc.
+# Сайт: www.warloadofficial.github.io
